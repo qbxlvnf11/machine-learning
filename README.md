@@ -9,13 +9,16 @@ Description
 Contents
 =============
 
-#### - K-NN Classifier and Regressor
-#### - Comparison between Decision Tree and Random Forest
-#### - MNIST, CIFAR-10 Image Classifier with Multi Class ROC Curve
-#### - Charcter-level Featrue and Word-level Feature t-SNE
-#### - Bidirectional LSTM News Classifier with Character Embedding
-#### - Recurrent Convolution News Classifier with Character Embedding
-#### - Solving Regression Problem (Prediction of Fuel Efficiency)
+#### - Comparison between Decision Tree and Random Forest: [Comparison_decision_tree_random_forest.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Comparison_decision_tree_random_forest.ipynb)
+#### - K-NN Classifier and Regressor: [K-NN_Classifier_Regressor.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/K-NN_Classifier_Regressor.ipynb)
+#### - Pytorch implement of backpropagation algorithm with MLP: [Pytorch_Backpropagation.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Pytorch_Backpropagation.ipynb)
+  - Backpropagation algorithm: https://blog.naver.com/qbxlvnf11/222640241085
+  - Code description: https://blog.naver.com/qbxlvnf11/222649122193
+#### - Solving Regression Problem (Prediction of Fuel Efficiency): [Regression_fuel_efficiency.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Regression_fuel_efficiency.ipynb)
+#### - MNIST, CIFAR-10 Image Classifier with Multi Class ROC Curve: [Image_classifier_MNIST_CIFAR10.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Image_classifier_MNIST_CIFAR10.ipynb)
+#### - Recurrent Convolution News Classifier with Character Embedding: [News_classifier_recurrent_convolution.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/News_classifier_recurrent_convolution.ipynb)
+#### - Bidirectional LSTM News Classifier with Character Embedding: [News_classifier_bidirectional_LSTM.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/News_classifier_bidirectional_LSTM.ipynb)
+#### - Charcter-level Featrue and Word-level Feature t-SNE: [Character-level_Word-level_t-SNE.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Character-level_Word-level_t-SNE.ipynb)
 
 Datasets
 =============
