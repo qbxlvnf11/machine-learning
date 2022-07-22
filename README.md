@@ -20,6 +20,7 @@ Contents
 #### - Bidirectional LSTM News Classifier with Character Embedding: [News_classifier_bidirectional_LSTM.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/News_classifier_bidirectional_LSTM.ipynb)
 #### - Charcter-level Featrue and Word-level Feature t-SNE: [Character-level_Word-level_t-SNE.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Character-level_Word-level_t-SNE.ipynb)
 #### - Driving behavior classification with ConvLSTM2D: [Driving_behavior_classification_ConvLSTM2D.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Driving_behavior_classification_ConvLSTM2D.ipynb)
+#### - Hand gesture recognition with CNNs: [Hand_gesture_recognition.ipynb](https://github.com/qbxlvnf11/machine-learning-basic/blob/master/Hand_gesture_recognition.ipynb)
 
 Datasets
 =============
